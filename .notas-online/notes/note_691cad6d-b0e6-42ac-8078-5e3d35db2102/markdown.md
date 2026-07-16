@@ -1,4 +1,4 @@
-# Bienvenido, Ron
+# Bienvenido, Ron Como funciona esto ajajja
 
 Esta nota guarda **Markdown** y un **lienzo de Excalidraw** juntos.
 

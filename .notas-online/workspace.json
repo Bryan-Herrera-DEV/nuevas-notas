@@ -1,8 +1,8 @@
 {
   "app": "notas-online",
   "version": 1,
-  "exportedAt": "2026-07-16T20:49:20.800Z",
-  "updatedAt": "2026-07-16T20:45:43.771Z",
+  "exportedAt": "2026-07-16T20:54:17.294Z",
+  "updatedAt": "2026-07-16T20:54:11.829Z",
   "preferences": {
     "displayName": "Ron",
     "accentColor": "#6ea8fe",
@@ -41,7 +41,7 @@
         "drawingPath": "notes/note_691cad6d-b0e6-42ac-8078-5e3d35db2102/drawing.excalidraw.json"
       },
       "createdAt": "2026-07-16T20:24:11.470Z",
-      "updatedAt": "2026-07-16T20:45:43.771Z"
+      "updatedAt": "2026-07-16T20:54:11.829Z"
     }
   ]
 }
