@@ -1,17 +1,17 @@
 {
   "app": "notas-online",
   "version": 1,
-  "exportedAt": "2026-07-16T20:54:17.294Z",
-  "updatedAt": "2026-07-16T20:54:11.829Z",
+  "exportedAt": "2026-07-16T21:34:47.288Z",
+  "updatedAt": "2026-07-16T21:34:18.341Z",
   "preferences": {
     "displayName": "Ron",
-    "accentColor": "#6ea8fe",
-    "themeId": "midnight",
+    "accentColor": "#b583d8",
+    "themeId": "plum",
     "fontFamily": "system",
     "locale": "en",
     "soundEnabled": false,
     "onboardedAt": "2026-07-16T20:24:11.463Z",
-    "updatedAt": "2026-07-16T20:44:37.034Z"
+    "updatedAt": "2026-07-16T21:34:18.341Z"
   },
   "folders": [
     {
