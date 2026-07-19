@@ -1,8 +1,8 @@
 {
   "app": "notas-online",
   "version": 1,
-  "exportedAt": "2026-07-16T21:34:47.288Z",
-  "updatedAt": "2026-07-16T21:34:18.341Z",
+  "exportedAt": "2026-07-19T14:47:32.419Z",
+  "updatedAt": "2026-07-19T14:47:27.624Z",
   "preferences": {
     "displayName": "Ron",
     "accentColor": "#b583d8",
@@ -15,33 +15,13 @@
   },
   "folders": [
     {
-      "id": "folder_4f245880-eb7f-4973-9fd4-513cda3662ec",
-      "name": "Bocetos",
-      "icon": "idea",
-      "parentId": "folder_ae484dc6-ff16-4752-bdf4-bd44957ae428",
-      "createdAt": "2026-07-16T20:24:11.470Z",
-      "updatedAt": "2026-07-16T20:24:11.470Z"
-    },
-    {
-      "id": "folder_ae484dc6-ff16-4752-bdf4-bd44957ae428",
-      "name": "Inicio",
-      "icon": "personal",
+      "id": "folder_9f145b56-ef19-4ee6-a3ab-b07f3082c862",
+      "name": "Platzi",
+      "icon": "folder",
       "parentId": null,
-      "createdAt": "2026-07-16T20:24:11.470Z",
-      "updatedAt": "2026-07-16T20:24:11.470Z"
+      "createdAt": "2026-07-19T14:47:27.624Z",
+      "updatedAt": "2026-07-19T14:47:27.624Z"
     }
   ],
-  "notes": [
-    {
-      "id": "note_691cad6d-b0e6-42ac-8078-5e3d35db2102",
-      "title": "Primera nota calida",
-      "folderId": "folder_ae484dc6-ff16-4752-bdf4-bd44957ae428",
-      "contentRef": {
-        "markdownPath": "notes/note_691cad6d-b0e6-42ac-8078-5e3d35db2102/markdown.md",
-        "drawingPath": "notes/note_691cad6d-b0e6-42ac-8078-5e3d35db2102/drawing.excalidraw.json"
-      },
-      "createdAt": "2026-07-16T20:24:11.470Z",
-      "updatedAt": "2026-07-16T20:54:11.829Z"
-    }
-  ]
+  "notes": []
 }
