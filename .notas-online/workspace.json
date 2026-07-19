@@ -1,8 +1,8 @@
 {
   "app": "notas-online",
   "version": 1,
-  "exportedAt": "2026-07-19T14:47:32.419Z",
-  "updatedAt": "2026-07-19T14:47:27.624Z",
+  "exportedAt": "2026-07-19T14:50:32.420Z",
+  "updatedAt": "2026-07-19T14:50:03.821Z",
   "preferences": {
     "displayName": "Ron",
     "accentColor": "#b583d8",
@@ -23,5 +23,17 @@
       "updatedAt": "2026-07-19T14:47:27.624Z"
     }
   ],
-  "notes": []
+  "notes": [
+    {
+      "id": "note_a7fce373-bec8-44b4-86e9-0c54f94929fa",
+      "title": "Problemas",
+      "folderId": "folder_9f145b56-ef19-4ee6-a3ab-b07f3082c862",
+      "contentRef": {
+        "markdownPath": "notes/note_a7fce373-bec8-44b4-86e9-0c54f94929fa/markdown.md",
+        "drawingPath": "notes/note_a7fce373-bec8-44b4-86e9-0c54f94929fa/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-07-19T14:50:02.576Z",
+      "updatedAt": "2026-07-19T14:50:03.821Z"
+    }
+  ]
 }
