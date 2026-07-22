@@ -1,8 +1,8 @@
 {
   "app": "sin-mucha-nota",
   "version": 1,
-  "exportedAt": "2026-07-22T22:02:03.752Z",
-  "updatedAt": "2026-07-22T22:01:50.343Z",
+  "exportedAt": "2026-07-22T22:03:03.739Z",
+  "updatedAt": "2026-07-22T22:03:01.756Z",
   "preferences": {
     "displayName": "Elias",
     "accentColor": "#70a477",
@@ -23,6 +23,14 @@
       "updatedAt": "2026-07-22T15:54:22.512Z"
     },
     {
+      "id": "folder_1a058b3b-a077-4d77-8a4a-7a4e64420c23",
+      "name": "HEALTHY DASHBOARD",
+      "icon": "folder",
+      "parentId": "folder_ca39cd89-4f20-4b99-ac69-48b1a87e3745",
+      "createdAt": "2026-07-22T22:02:05.674Z",
+      "updatedAt": "2026-07-22T22:02:05.674Z"
+    },
+    {
       "id": "folder_c1f2ef57-1abf-45bf-8eb9-2c194a29e019",
       "name": "Inicio",
       "icon": "personal",
@@ -40,6 +48,17 @@
     }
   ],
   "notes": [
+    {
+      "id": "note_965b5240-bf14-40c3-8f94-c6739aadb862",
+      "title": "Data y de donde sacarla",
+      "folderId": "folder_1a058b3b-a077-4d77-8a4a-7a4e64420c23",
+      "contentRef": {
+        "markdownPath": "notes/note_965b5240-bf14-40c3-8f94-c6739aadb862/markdown.md",
+        "drawingPath": "notes/note_965b5240-bf14-40c3-8f94-c6739aadb862/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-07-22T22:02:18.154Z",
+      "updatedAt": "2026-07-22T22:03:01.756Z"
+    },
     {
       "id": "note_0e6f1c1e-5e77-4d2c-8672-865bdf67ad5b",
       "title": "Estudio",
