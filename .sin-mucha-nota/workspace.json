@@ -1,8 +1,8 @@
 {
   "app": "sin-mucha-nota",
   "version": 1,
-  "exportedAt": "2026-07-22T15:57:43.490Z",
-  "updatedAt": "2026-07-22T15:57:40.877Z",
+  "exportedAt": "2026-07-22T22:02:03.752Z",
+  "updatedAt": "2026-07-22T22:01:50.343Z",
   "preferences": {
     "displayName": "Elias",
     "accentColor": "#70a477",
@@ -29,6 +29,14 @@
       "parentId": null,
       "createdAt": "2026-07-22T15:54:22.512Z",
       "updatedAt": "2026-07-22T15:54:22.512Z"
+    },
+    {
+      "id": "folder_ca39cd89-4f20-4b99-ac69-48b1a87e3745",
+      "name": "QPH",
+      "icon": "folder",
+      "parentId": null,
+      "createdAt": "2026-07-22T22:01:50.343Z",
+      "updatedAt": "2026-07-22T22:01:50.343Z"
     }
   ],
   "notes": [
