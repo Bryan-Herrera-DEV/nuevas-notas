@@ -1,8 +1,8 @@
 {
   "app": "sin-mucha-nota",
   "version": 1,
-  "exportedAt": "2026-07-26T18:00:04.291Z",
-  "updatedAt": "2026-07-26T17:59:57.951Z",
+  "exportedAt": "2026-07-27T22:41:37.418Z",
+  "updatedAt": "2026-07-27T22:41:33.517Z",
   "preferences": {
     "displayName": "Elias",
     "accentColor": "#6ea8fe",
@@ -33,6 +33,17 @@
     }
   ],
   "notes": [
+    {
+      "id": "note_7d54ff31-956f-4fb6-8776-fa6a18a7c7d4",
+      "title": "pueee",
+      "folderId": "folder_ca39cd89-4f20-4b99-ac69-48b1a87e3745",
+      "contentRef": {
+        "markdownPath": "notes/note_7d54ff31-956f-4fb6-8776-fa6a18a7c7d4/markdown.md",
+        "drawingPath": "notes/note_7d54ff31-956f-4fb6-8776-fa6a18a7c7d4/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-07-27T22:41:32.444Z",
+      "updatedAt": "2026-07-27T22:41:33.517Z"
+    },
     {
       "id": "note_965b5240-bf14-40c3-8f94-c6739aadb862",
       "title": "Data y de donde sacarla",
