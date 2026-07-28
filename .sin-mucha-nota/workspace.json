@@ -1,8 +1,8 @@
 {
   "app": "sin-mucha-nota",
   "version": 1,
-  "exportedAt": "2026-07-27T22:42:37.420Z",
-  "updatedAt": "2026-07-27T22:41:47.218Z",
+  "exportedAt": "2026-07-28T17:36:40.383Z",
+  "updatedAt": "2026-07-28T17:36:20.402Z",
   "preferences": {
     "displayName": "Elias",
     "accentColor": "#6ea8fe",
@@ -34,6 +34,17 @@
   ],
   "notes": [
     {
+      "id": "note_965b5240-bf14-40c3-8f94-c6739aadb862",
+      "title": "Data de los procesos",
+      "folderId": "folder_1a058b3b-a077-4d77-8a4a-7a4e64420c23",
+      "contentRef": {
+        "markdownPath": "notes/note_965b5240-bf14-40c3-8f94-c6739aadb862/markdown.md",
+        "drawingPath": "notes/note_965b5240-bf14-40c3-8f94-c6739aadb862/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-07-22T22:02:18.154Z",
+      "updatedAt": "2026-07-28T17:36:20.402Z"
+    },
+    {
       "id": "note_7d54ff31-956f-4fb6-8776-fa6a18a7c7d4",
       "title": "pueee",
       "folderId": "folder_ca39cd89-4f20-4b99-ac69-48b1a87e3745",
@@ -43,17 +54,6 @@
       },
       "createdAt": "2026-07-27T22:41:32.444Z",
       "updatedAt": "2026-07-27T22:41:47.218Z"
-    },
-    {
-      "id": "note_965b5240-bf14-40c3-8f94-c6739aadb862",
-      "title": "Data y de donde sacarla",
-      "folderId": "folder_1a058b3b-a077-4d77-8a4a-7a4e64420c23",
-      "contentRef": {
-        "markdownPath": "notes/note_965b5240-bf14-40c3-8f94-c6739aadb862/markdown.md",
-        "drawingPath": "notes/note_965b5240-bf14-40c3-8f94-c6739aadb862/drawing.excalidraw.json"
-      },
-      "createdAt": "2026-07-22T22:02:18.154Z",
-      "updatedAt": "2026-07-24T16:49:41.179Z"
     }
   ]
 }
