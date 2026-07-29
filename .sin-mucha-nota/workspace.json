@@ -1,8 +1,8 @@
 {
   "app": "sin-mucha-nota",
   "version": 1,
-  "exportedAt": "2026-07-29T15:18:31.451Z",
-  "updatedAt": "2026-07-29T15:18:30.025Z",
+  "exportedAt": "2026-07-29T20:22:01.866Z",
+  "updatedAt": "2026-07-29T20:21:47.268Z",
   "preferences": {
     "displayName": "Elias",
     "accentColor": "#6ea8fe",
@@ -15,6 +15,14 @@
     "updatedAt": "2026-07-26T17:59:57.951Z"
   },
   "folders": [
+    {
+      "id": "folder_de84e9f2-15c0-4b33-a60d-0a9f74cddcc4",
+      "name": "Codely",
+      "icon": "book",
+      "parentId": null,
+      "createdAt": "2026-07-29T20:21:47.268Z",
+      "updatedAt": "2026-07-29T20:21:47.268Z"
+    },
     {
       "id": "folder_1a058b3b-a077-4d77-8a4a-7a4e64420c23",
       "name": "HEALTHY DASHBOARD",
