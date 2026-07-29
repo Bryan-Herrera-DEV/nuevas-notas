@@ -1,8 +1,8 @@
 {
   "app": "sin-mucha-nota",
   "version": 1,
-  "exportedAt": "2026-07-29T20:22:01.866Z",
-  "updatedAt": "2026-07-29T20:21:47.268Z",
+  "exportedAt": "2026-07-29T20:23:31.860Z",
+  "updatedAt": "2026-07-29T20:22:12.888Z",
   "preferences": {
     "displayName": "Elias",
     "accentColor": "#6ea8fe",
@@ -38,6 +38,14 @@
       "parentId": null,
       "createdAt": "2026-07-22T22:01:50.343Z",
       "updatedAt": "2026-07-22T22:01:50.343Z"
+    },
+    {
+      "id": "folder_c5a1e7ef-09fc-4928-91cf-fbd084c0b317",
+      "name": "Value Objects [Modelado del dominio]",
+      "icon": "folder",
+      "parentId": "folder_de84e9f2-15c0-4b33-a60d-0a9f74cddcc4",
+      "createdAt": "2026-07-29T20:22:12.888Z",
+      "updatedAt": "2026-07-29T20:22:12.888Z"
     }
   ],
   "notes": [
