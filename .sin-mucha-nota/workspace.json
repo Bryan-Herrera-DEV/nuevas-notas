@@ -1,8 +1,8 @@
 {
   "app": "sin-mucha-nota",
   "version": 1,
-  "exportedAt": "2026-07-30T22:22:50.831Z",
-  "updatedAt": "2026-07-30T22:22:30.357Z",
+  "exportedAt": "2026-07-30T22:24:50.837Z",
+  "updatedAt": "2026-07-30T22:24:49.487Z",
   "preferences": {
     "displayName": "Elias",
     "accentColor": "#6ea8fe",
@@ -49,6 +49,17 @@
     }
   ],
   "notes": [
+    {
+      "id": "note_feef088e-23bd-4b03-b9ef-67962682bf00",
+      "title": "2. 💩 Modelos de dominio anémicos",
+      "folderId": "folder_c5a1e7ef-09fc-4928-91cf-fbd084c0b317",
+      "contentRef": {
+        "markdownPath": "notes/note_feef088e-23bd-4b03-b9ef-67962682bf00/markdown.md",
+        "drawingPath": "notes/note_feef088e-23bd-4b03-b9ef-67962682bf00/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-07-30T22:24:48.352Z",
+      "updatedAt": "2026-07-30T22:24:49.487Z"
+    },
     {
       "id": "note_2fbfce40-cfdf-4fd5-ab4c-56602f12077a",
       "title": "1. Características y beneficios del patrón de diseño Value Object",
