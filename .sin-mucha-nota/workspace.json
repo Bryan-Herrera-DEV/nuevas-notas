@@ -1,8 +1,8 @@
 {
   "app": "sin-mucha-nota",
   "version": 1,
-  "exportedAt": "2026-07-30T12:56:50.115Z",
-  "updatedAt": "2026-07-30T12:56:28.664Z",
+  "exportedAt": "2026-07-30T22:03:50.787Z",
+  "updatedAt": "2026-07-30T22:03:48.893Z",
   "preferences": {
     "displayName": "Elias",
     "accentColor": "#6ea8fe",
@@ -49,6 +49,17 @@
     }
   ],
   "notes": [
+    {
+      "id": "note_2fbfce40-cfdf-4fd5-ab4c-56602f12077a",
+      "title": "1. Características y beneficios del patrón de diseño Value Object",
+      "folderId": "folder_c5a1e7ef-09fc-4928-91cf-fbd084c0b317",
+      "contentRef": {
+        "markdownPath": "notes/note_2fbfce40-cfdf-4fd5-ab4c-56602f12077a/markdown.md",
+        "drawingPath": "notes/note_2fbfce40-cfdf-4fd5-ab4c-56602f12077a/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-07-30T22:03:47.791Z",
+      "updatedAt": "2026-07-30T22:03:48.893Z"
+    },
     {
       "id": "note_965b5240-bf14-40c3-8f94-c6739aadb862",
       "title": "Data de los procesos",
