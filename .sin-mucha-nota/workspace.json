@@ -1,8 +1,8 @@
 {
   "app": "sin-mucha-nota",
   "version": 1,
-  "exportedAt": "2026-07-31T17:27:16.522Z",
-  "updatedAt": "2026-07-31T17:26:56.342Z",
+  "exportedAt": "2026-08-03T21:35:53.695Z",
+  "updatedAt": "2026-08-03T21:35:46.905Z",
   "preferences": {
     "displayName": "Elias",
     "accentColor": "#6ea8fe",
@@ -49,6 +49,17 @@
     }
   ],
   "notes": [
+    {
+      "id": "note_5aaedb4c-4a3c-4f41-8615-5b1bcb521bd4",
+      "title": "3. Aprovecha el potencial de los Value Objects: Aplicaciones más mantenibles",
+      "folderId": "folder_c5a1e7ef-09fc-4928-91cf-fbd084c0b317",
+      "contentRef": {
+        "markdownPath": "notes/note_5aaedb4c-4a3c-4f41-8615-5b1bcb521bd4/markdown.md",
+        "drawingPath": "notes/note_5aaedb4c-4a3c-4f41-8615-5b1bcb521bd4/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-08-03T21:35:41.638Z",
+      "updatedAt": "2026-08-03T21:35:46.905Z"
+    },
     {
       "id": "note_feef088e-23bd-4b03-b9ef-67962682bf00",
       "title": "2. 💩 Modelos de dominio anémicos",
