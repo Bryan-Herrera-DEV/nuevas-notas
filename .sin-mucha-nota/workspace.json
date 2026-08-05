@@ -1,8 +1,8 @@
 {
   "app": "sin-mucha-nota",
   "version": 1,
-  "exportedAt": "2026-08-05T17:40:12.621Z",
-  "updatedAt": "2026-08-05T17:39:52.619Z",
+  "exportedAt": "2026-08-05T17:41:12.624Z",
+  "updatedAt": "2026-08-05T17:40:46.132Z",
   "preferences": {
     "displayName": "Elias",
     "accentColor": "#6ea8fe",
@@ -57,6 +57,17 @@
     }
   ],
   "notes": [
+    {
+      "id": "note_c819939d-1af4-4fba-9b59-b07c3130f60e",
+      "title": "1. Diferencias entre Entidades y Agregados",
+      "folderId": "folder_768c3612-e48b-4424-925e-367b9e403776",
+      "contentRef": {
+        "markdownPath": "notes/note_c819939d-1af4-4fba-9b59-b07c3130f60e/markdown.md",
+        "drawingPath": "notes/note_c819939d-1af4-4fba-9b59-b07c3130f60e/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-08-05T17:40:44.997Z",
+      "updatedAt": "2026-08-05T17:40:46.132Z"
+    },
     {
       "id": "note_5aaedb4c-4a3c-4f41-8615-5b1bcb521bd4",
       "title": "3. Aprovecha el potencial de los Value Objects: Aplicaciones más mantenibles",
