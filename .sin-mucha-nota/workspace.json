@@ -1,8 +1,8 @@
 {
   "app": "sin-mucha-nota",
   "version": 1,
-  "exportedAt": "2026-08-06T14:24:07.773Z",
-  "updatedAt": "2026-08-06T14:23:50.787Z",
+  "exportedAt": "2026-08-06T20:51:38.229Z",
+  "updatedAt": "2026-08-06T20:51:37.871Z",
   "preferences": {
     "displayName": "Elias",
     "accentColor": "#6ea8fe",
@@ -65,6 +65,17 @@
     }
   ],
   "notes": [
+    {
+      "id": "note_00a6cff8-e2d8-466c-abca-4efbb7c6e2e5",
+      "title": "BPAY-2",
+      "folderId": "folder_1a058b3b-a077-4d77-8a4a-7a4e64420c23",
+      "contentRef": {
+        "markdownPath": "notes/note_00a6cff8-e2d8-466c-abca-4efbb7c6e2e5/markdown.md",
+        "drawingPath": "notes/note_00a6cff8-e2d8-466c-abca-4efbb7c6e2e5/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-08-06T20:51:20.770Z",
+      "updatedAt": "2026-08-06T20:51:37.871Z"
+    },
     {
       "id": "note_348cb9dc-49a9-47b1-9128-adbfcb4ed7d2",
       "title": "1. Cómo evito usar JOINs",
