@@ -1,34 +1,5 @@
-# BPAY-2: Dashboard de monitoreo Bendo
-
-## Información General
-
-| Campo | Valor |
-|-------|-------|
-| **ID** | BPAY-2 |
-| **Tipo** | Story |
-| **Estado** | TO DO |
-| **Prioridad** | Medium |
-| **Asignado a** | David Cuaical |
-| **Reportado por** | Karla Altamirano |
-| **Fecha de vencimiento** | 2026-08-21 |
-| **Proyecto** | B Pay \| Corporativo |
-| **Creado** | 2026-08-05 17:57:37 |
-| **Actualizado** | 2026-08-06 12:56:14 |
-
----
-
-## Descripción
-
-**Como** usuario de negocio, operaciones, cumplimiento y financiero  
-**Quiero** un tablero que muestre con el máximo nivel de detalle el estado de cada transacción y archivo a lo largo de todo el flujo (conciliación → liquidación → dispersión → facturación), diferenciado por frecuencia de pago, tipo de consumo y motivo de retraso  
-**Para** poder auditar diariamente si se cumple el ANS/SLA por comercio, identificar exactamente dónde y por qué se detiene una transacción, y actuar antes de que impacte al PAC (Prestador de Servicios de Pago) o al negocio.
-
----
 
 ## 0. Reglas Transversales (Aplican a todo el tablero)
-
-1. **Eliminar el indicador "Compensación a comercios"** como módulo independiente; su contenido se reubica dentro de "Conciliación de comercios".
-
 2. **Búsqueda por Número de autorización**: se debe incorporar la búsqueda por número de autorización para que se realice la búsqueda de toda la trazabilidad de la transacción (aplica para toda la logica del tablero que se encuentra a nivel transaccional)
 
 3. **Filtro de modelo**: agregar switch/selector para alternar entre **Modelo Agregador** y **Dispositivos**. Todo el tablero (los 4 módulos) debe poder consultarse bajo ambos modelos, de forma independiente (no sumados).
