@@ -1,8 +1,8 @@
 {
   "app": "sin-mucha-nota",
   "version": 1,
-  "exportedAt": "2026-08-06T20:52:08.235Z",
-  "updatedAt": "2026-08-06T20:52:06.090Z",
+  "exportedAt": "2026-09-28T15:22:51.853Z",
+  "updatedAt": "2026-09-28T15:22:51.853Z",
   "preferences": {
     "displayName": "Elias",
     "accentColor": "#6ea8fe",
@@ -40,6 +40,14 @@
       "updatedAt": "2026-07-29T20:21:47.268Z"
     },
     {
+      "id": "folder_1aac884d-50ac-491b-8c69-6490779b4672",
+      "name": "Dolencias",
+      "icon": "folder",
+      "parentId": "folder_3c760bf4-e70b-448d-8067-f031f9b09088",
+      "createdAt": "2026-09-14T14:13:19.708Z",
+      "updatedAt": "2026-09-14T14:13:19.708Z"
+    },
+    {
       "id": "folder_1a058b3b-a077-4d77-8a4a-7a4e64420c23",
       "name": "HEALTHY DASHBOARD",
       "icon": "folder",
@@ -48,12 +56,28 @@
       "updatedAt": "2026-07-22T22:02:05.674Z"
     },
     {
+      "id": "folder_3c760bf4-e70b-448d-8067-f031f9b09088",
+      "name": "Procesos Bendo",
+      "icon": "folder",
+      "parentId": "folder_ca39cd89-4f20-4b99-ac69-48b1a87e3745",
+      "createdAt": "2026-09-14T14:13:12.372Z",
+      "updatedAt": "2026-09-14T14:13:12.372Z"
+    },
+    {
       "id": "folder_ca39cd89-4f20-4b99-ac69-48b1a87e3745",
       "name": "QPH",
       "icon": "folder",
       "parentId": null,
       "createdAt": "2026-07-22T22:01:50.343Z",
       "updatedAt": "2026-07-22T22:01:50.343Z"
+    },
+    {
+      "id": "folder_4cdfa805-c289-4c64-8078-be5f4aa151fa",
+      "name": "ramOS",
+      "icon": "folder",
+      "parentId": null,
+      "createdAt": "2026-09-14T19:47:03.126Z",
+      "updatedAt": "2026-09-14T19:47:03.126Z"
     },
     {
       "id": "folder_c5a1e7ef-09fc-4928-91cf-fbd084c0b317",
@@ -74,7 +98,51 @@
         "drawingPath": "notes/note_00a6cff8-e2d8-466c-abca-4efbb7c6e2e5/drawing.excalidraw.json"
       },
       "createdAt": "2026-08-06T20:51:20.770Z",
-      "updatedAt": "2026-08-06T20:52:06.090Z"
+      "updatedAt": "2026-09-28T15:19:56.114Z"
+    },
+    {
+      "id": "note_922b04e4-da50-45a3-9782-8b2f09aeedbc",
+      "title": "Partes de lso SLA",
+      "folderId": "folder_1a058b3b-a077-4d77-8a4a-7a4e64420c23",
+      "contentRef": {
+        "markdownPath": "notes/note_922b04e4-da50-45a3-9782-8b2f09aeedbc/markdown.md",
+        "drawingPath": "notes/note_922b04e4-da50-45a3-9782-8b2f09aeedbc/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-07-28T17:37:06.782Z",
+      "updatedAt": "2026-09-28T15:19:21.653Z"
+    },
+    {
+      "id": "note_dc4064d1-9200-44cc-910a-7cc0a2a55416",
+      "title": "..}",
+      "folderId": "folder_4cdfa805-c289-4c64-8078-be5f4aa151fa",
+      "contentRef": {
+        "markdownPath": "notes/note_dc4064d1-9200-44cc-910a-7cc0a2a55416/markdown.md",
+        "drawingPath": "notes/note_dc4064d1-9200-44cc-910a-7cc0a2a55416/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-09-16T22:11:47.569Z",
+      "updatedAt": "2026-09-17T19:21:39.175Z"
+    },
+    {
+      "id": "note_4a8fbbc9-4e54-44d4-a4f2-ab7e650bbd55",
+      "title": "iNFO",
+      "folderId": "folder_4cdfa805-c289-4c64-8078-be5f4aa151fa",
+      "contentRef": {
+        "markdownPath": "notes/note_4a8fbbc9-4e54-44d4-a4f2-ab7e650bbd55/markdown.md",
+        "drawingPath": "notes/note_4a8fbbc9-4e54-44d4-a4f2-ab7e650bbd55/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-09-14T19:47:09.657Z",
+      "updatedAt": "2026-09-17T16:17:32.283Z"
+    },
+    {
+      "id": "note_97dcd7b4-14cc-46c1-8932-7fda4b9d7908",
+      "title": "Cambios",
+      "folderId": "folder_4cdfa805-c289-4c64-8078-be5f4aa151fa",
+      "contentRef": {
+        "markdownPath": "notes/note_97dcd7b4-14cc-46c1-8932-7fda4b9d7908/markdown.md",
+        "drawingPath": "notes/note_97dcd7b4-14cc-46c1-8932-7fda4b9d7908/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-09-16T14:06:56.078Z",
+      "updatedAt": "2026-09-16T14:06:56.078Z"
     },
     {
       "id": "note_348cb9dc-49a9-47b1-9128-adbfcb4ed7d2",
@@ -152,17 +220,6 @@
       },
       "createdAt": "2026-07-22T22:02:18.154Z",
       "updatedAt": "2026-07-30T12:56:28.664Z"
-    },
-    {
-      "id": "note_922b04e4-da50-45a3-9782-8b2f09aeedbc",
-      "title": "Partes de lso SLA",
-      "folderId": "folder_1a058b3b-a077-4d77-8a4a-7a4e64420c23",
-      "contentRef": {
-        "markdownPath": "notes/note_922b04e4-da50-45a3-9782-8b2f09aeedbc/markdown.md",
-        "drawingPath": "notes/note_922b04e4-da50-45a3-9782-8b2f09aeedbc/drawing.excalidraw.json"
-      },
-      "createdAt": "2026-07-28T17:37:06.782Z",
-      "updatedAt": "2026-07-28T17:37:42.416Z"
     },
     {
       "id": "note_7d54ff31-956f-4fb6-8776-fa6a18a7c7d4",
