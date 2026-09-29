@@ -1,7 +1,8 @@
 Levantamiento de las POC
-- schedulers: 2h
+- schedulers: 4h
 - 
+
 Levantamiento de los lineamientos
 - schedulers: 2h
-'
+-
 
