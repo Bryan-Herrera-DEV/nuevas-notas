@@ -7,6 +7,7 @@ Levantamiento de los lineamientos
 - 
 
 Plataformas
+SFTP Diners
 Geopagos
 SRI
 Shinny
