@@ -1,8 +1,8 @@
 {
   "app": "sin-mucha-nota",
   "version": 1,
-  "exportedAt": "2026-09-28T19:13:21.309Z",
-  "updatedAt": "2026-09-28T19:11:59.578Z",
+  "exportedAt": "2026-09-29T22:08:43.543Z",
+  "updatedAt": "2026-09-29T22:08:40.281Z",
   "preferences": {
     "displayName": "Elias",
     "accentColor": "#d4a373",
@@ -97,6 +97,17 @@
     }
   ],
   "notes": [
+    {
+      "id": "note_fa3e8091-ba15-4174-9856-7d281787bc1e",
+      "title": "Tiempos",
+      "folderId": null,
+      "contentRef": {
+        "markdownPath": "notes/note_fa3e8091-ba15-4174-9856-7d281787bc1e/markdown.md",
+        "drawingPath": "notes/note_fa3e8091-ba15-4174-9856-7d281787bc1e/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-09-29T22:08:21.537Z",
+      "updatedAt": "2026-09-29T22:08:40.281Z"
+    },
     {
       "id": "note_63c34421-4e08-41c5-9900-c70cca7e7477",
       "title": "2. Cómo se relacionan los agregados",
