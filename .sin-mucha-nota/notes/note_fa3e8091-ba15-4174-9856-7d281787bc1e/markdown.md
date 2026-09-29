@@ -7,3 +7,8 @@ Levantamiento de los lineamientos
 - 
 
 Plataformas
+Geopagos
+SRI
+Shinny
+Place To Pay (P2P)
+Cash Bancario BP
