@@ -12,3 +12,4 @@ Beneficios de la Arq Hexagonal
 - simplicidad
 - Evitar el crecimiento de la complejidad accidentar
 
+

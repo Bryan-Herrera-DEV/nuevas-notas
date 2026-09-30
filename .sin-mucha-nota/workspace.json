@@ -1,8 +1,8 @@
 {
   "app": "sin-mucha-nota",
   "version": 1,
-  "exportedAt": "2026-09-30T16:24:13.845Z",
-  "updatedAt": "2026-09-30T16:24:04.529Z",
+  "exportedAt": "2026-09-30T16:29:14.396Z",
+  "updatedAt": "2026-09-30T16:28:51.574Z",
   "preferences": {
     "displayName": "Elias",
     "accentColor": "#6ea8fe",
@@ -114,7 +114,7 @@
         "drawingPath": "notes/note_99fc764d-3c1d-4bd3-8b3d-5f8625040c3d/drawing.excalidraw.json"
       },
       "createdAt": "2026-09-30T13:48:51.645Z",
-      "updatedAt": "2026-09-30T16:24:04.529Z"
+      "updatedAt": "2026-09-30T16:28:51.574Z"
     },
     {
       "id": "note_fa3e8091-ba15-4174-9856-7d281787bc1e",
