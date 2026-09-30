@@ -3,3 +3,11 @@ La primera aprte para responder es responde a la inversa, que no es la arquitect
 
 Que si es:
 - reglas autoimpuestas al definir como se diseña un componente de software
+
+Beneficios de la Arq Hexagonal
+
+- Mantenibilidad
+- Cambiabilidad
+- testing
+- simplicidad
+- Evitar 
