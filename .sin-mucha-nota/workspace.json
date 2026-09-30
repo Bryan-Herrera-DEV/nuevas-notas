@@ -1,8 +1,8 @@
 {
   "app": "sin-mucha-nota",
   "version": 1,
-  "exportedAt": "2026-09-30T13:53:26.341Z",
-  "updatedAt": "2026-09-30T13:53:25.756Z",
+  "exportedAt": "2026-09-30T13:54:26.342Z",
+  "updatedAt": "2026-09-30T13:53:33.205Z",
   "preferences": {
     "displayName": "Elias",
     "accentColor": "#6ea8fe",
@@ -12,7 +12,7 @@
     "soundEnabled": true,
     "soundVolume": 0.93,
     "onboardedAt": "2026-07-22T15:54:22.488Z",
-    "updatedAt": "2026-09-30T13:53:25.756Z"
+    "updatedAt": "2026-09-30T13:53:33.205Z"
   },
   "folders": [
     {
