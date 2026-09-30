@@ -14,4 +14,3 @@ Beneficios de la Arq Hexagonal
 
 
 
-
