@@ -1,8 +1,8 @@
 {
   "app": "sin-mucha-nota",
   "version": 1,
-  "exportedAt": "2026-09-30T13:48:26.355Z",
-  "updatedAt": "2026-09-30T13:48:18.658Z",
+  "exportedAt": "2026-09-30T13:49:26.351Z",
+  "updatedAt": "2026-09-30T13:49:16.351Z",
   "preferences": {
     "displayName": "Elias",
     "accentColor": "#d4a373",
@@ -105,6 +105,17 @@
     }
   ],
   "notes": [
+    {
+      "id": "note_99fc764d-3c1d-4bd3-8b3d-5f8625040c3d",
+      "title": "1. Qué es la Arquitectura de Software",
+      "folderId": "folder_8c0b152d-2282-4887-bc16-03808a958bb3",
+      "contentRef": {
+        "markdownPath": "notes/note_99fc764d-3c1d-4bd3-8b3d-5f8625040c3d/markdown.md",
+        "drawingPath": "notes/note_99fc764d-3c1d-4bd3-8b3d-5f8625040c3d/drawing.excalidraw.json"
+      },
+      "createdAt": "2026-09-30T13:48:51.645Z",
+      "updatedAt": "2026-09-30T13:49:16.351Z"
+    },
     {
       "id": "note_fa3e8091-ba15-4174-9856-7d281787bc1e",
       "title": "Tiempos",

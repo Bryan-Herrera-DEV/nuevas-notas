@@ -1,0 +1,1 @@
+La primera aprte para responder es responde a la inversa, que no es la arquitectura de sofw
