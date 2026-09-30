@@ -1,8 +1,8 @@
 {
   "app": "sin-mucha-nota",
   "version": 1,
-  "exportedAt": "2026-09-29T22:40:43.547Z",
-  "updatedAt": "2026-09-29T22:39:45.126Z",
+  "exportedAt": "2026-09-30T13:48:26.355Z",
+  "updatedAt": "2026-09-30T13:48:18.658Z",
   "preferences": {
     "displayName": "Elias",
     "accentColor": "#d4a373",
@@ -15,6 +15,14 @@
     "updatedAt": "2026-09-28T15:36:08.194Z"
   },
   "folders": [
+    {
+      "id": "folder_8c0b152d-2282-4887-bc16-03808a958bb3",
+      "name": "1.Qué es la Arquitectura de Softwar",
+      "icon": "folder",
+      "parentId": "folder_b5e46c2f-8ea5-4422-bb2b-064681fe84b6",
+      "createdAt": "2026-09-30T13:48:18.658Z",
+      "updatedAt": "2026-09-30T13:48:18.658Z"
+    },
     {
       "id": "folder_768c3612-e48b-4424-925e-367b9e403776",
       "name": "agregados-modelado-del-dominio",
