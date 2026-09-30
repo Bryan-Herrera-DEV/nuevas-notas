@@ -11,4 +11,3 @@ Beneficios de la Arq Hexagonal
 - testing
 - simplicidad
 - Evitar el crecimiento de la complejidad accidentar
-
