@@ -3,3 +3,4 @@ LLever la generacion de reportes a segundo plano
 Separar registros el mdulo de registros y graficas
 Limitar el páginado, limitar las gráficas
 
+
