@@ -1,8 +1,8 @@
 {
   "app": "sin-mucha-nota",
   "version": 1,
-  "exportedAt": "2026-09-30T19:05:08.138Z",
-  "updatedAt": "2026-09-30T19:05:00.003Z",
+  "exportedAt": "2026-10-01T14:04:23.260Z",
+  "updatedAt": "2026-10-01T14:04:22.740Z",
   "preferences": {
     "displayName": "Elias",
     "accentColor": "#6ea8fe",
@@ -80,6 +80,14 @@
       "updatedAt": "2026-09-28T16:11:49.303Z"
     },
     {
+      "id": "folder_abf01dd1-245e-4f25-89ab-c337e7d3daf9",
+      "name": "Proyectos Propios",
+      "icon": "project",
+      "parentId": null,
+      "createdAt": "2026-10-01T14:04:11.359Z",
+      "updatedAt": "2026-10-01T14:04:11.359Z"
+    },
+    {
       "id": "folder_ca39cd89-4f20-4b99-ac69-48b1a87e3745",
       "name": "QPH",
       "icon": "folder",
@@ -105,6 +113,18 @@
     }
   ],
   "notes": [
+    {
+      "id": "note_c2ce5d91-2752-4318-bb37-9d5e73ecf2df",
+      "title": "DAPP",
+      "folderId": "folder_abf01dd1-245e-4f25-89ab-c337e7d3daf9",
+      "contentRef": {
+        "markdownPath": "notes/note_c2ce5d91-2752-4318-bb37-9d5e73ecf2df/markdown.md",
+        "drawingPath": "notes/note_c2ce5d91-2752-4318-bb37-9d5e73ecf2df/drawing.excalidraw.json",
+        "assetsPath": "notes/note_c2ce5d91-2752-4318-bb37-9d5e73ecf2df/assets.json"
+      },
+      "createdAt": "2026-10-01T14:04:22.740Z",
+      "updatedAt": "2026-10-01T14:04:22.740Z"
+    },
     {
       "id": "note_99fc764d-3c1d-4bd3-8b3d-5f8625040c3d",
       "title": "1. Qué es la Arquitectura de Software",
