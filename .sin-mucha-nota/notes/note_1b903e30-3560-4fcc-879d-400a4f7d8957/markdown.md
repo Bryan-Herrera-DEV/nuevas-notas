@@ -18,7 +18,10 @@ o, lo que cambie un estado externo
 Las interfaces van a ser la la capa para poder comunicar con aplicacion
 
 Aplicacion 
-Son los casos de uso comunes: crear un post, publicar un video, hacer una transferencia, etc
-
+Son los casos de uso comunes: crear un post, publicar un video, hacer una transferencia, etcT
+Todo tiene que ir a travez de las implementaciones
 
 ![image](asset:e57ab57291f448e884a3358192c5e0a5)
+
+![image](asset:e73bd8d4e9024783a4b3e0eb82d6da28)
+
