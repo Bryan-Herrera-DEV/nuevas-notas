@@ -15,4 +15,7 @@ Infra
 Todo lo que va atacar al IO, todo lo que pueda llegar a ser logica pura como tocar servicios externos, base de datos, un redis, librerias,
 o, lo que cambie un estado externo
 
-Las interfaces van a ser la  
+Las interfaces van a ser la la capa para poder comunicar con aplicacion
+
+Aplicacion 
+Son los casos de uso comunes: crear un post, publicar un video, hacer una transferencia, etc
