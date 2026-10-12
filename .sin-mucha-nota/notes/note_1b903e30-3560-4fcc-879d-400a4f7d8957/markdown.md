@@ -1,1 +1,1 @@
-Lo principal de la arquitectura hexagonal no es solo los nombres de las carpetas
+Lo principal de la arquitectura hexagonal no es solo los nombres de las carpetas, es sobre todo las reglas de dependencias y que van de afuera hacia adentro

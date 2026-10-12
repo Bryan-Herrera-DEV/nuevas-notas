@@ -1,8 +1,8 @@
 {
   "app": "sin-mucha-nota",
   "version": 1,
-  "exportedAt": "2026-10-12T15:14:56.619Z",
-  "updatedAt": "2026-10-12T15:14:48.277Z",
+  "exportedAt": "2026-10-12T15:16:26.619Z",
+  "updatedAt": "2026-10-12T15:15:22.341Z",
   "preferences": {
     "displayName": "Elias",
     "accentColor": "#6ea8fe",
@@ -123,7 +123,7 @@
         "assetsPath": "notes/note_1b903e30-3560-4fcc-879d-400a4f7d8957/assets.json"
       },
       "createdAt": "2026-10-12T15:13:19.529Z",
-      "updatedAt": "2026-10-12T15:14:48.277Z"
+      "updatedAt": "2026-10-12T15:15:22.341Z"
     },
     {
       "id": "note_c2ce5d91-2752-4318-bb37-9d5e73ecf2df",
