@@ -1,0 +1,1 @@
+Lo principal de la arquitectura hexagonal no es solo los nombres de las carpetas
