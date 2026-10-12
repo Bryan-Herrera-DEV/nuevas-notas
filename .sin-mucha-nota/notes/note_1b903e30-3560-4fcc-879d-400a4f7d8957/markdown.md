@@ -5,3 +5,5 @@ Lo principal de la arquitectura hexagonal no es solo los nombres de las carpetas
 Por que sucede y por que esto es bueno?
 
 Porque las reglas de dependencia nos permiten cambiar lo de fuera sin que lo de dentro se entere y en viceversa
+
+esto beneficia sobre todo los terminos de cambiabilidad
