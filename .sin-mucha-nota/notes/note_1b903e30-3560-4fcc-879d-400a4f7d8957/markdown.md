@@ -7,3 +7,9 @@ Por que sucede y por que esto es bueno?
 Porque las reglas de dependencia nos permiten cambiar lo de fuera sin que lo de dentro se entere y en viceversa
 
 esto beneficia sobre todo los terminos de cambiabilidad
+
+
+![image](asset:f0a2506c7684461b927d803cdd271a50)
+
+Infra
+Todo lo q
